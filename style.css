@@ -4,10 +4,14 @@
 
 .lp{
     color: brown;
-}
+}  
 
 .zx{
     background-color: blue;}
-np{
+.np{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.kr{
+    text-align: center;
 }
